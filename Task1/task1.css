@@ -1,0 +1,501 @@
+.maindiv{
+    background-color: rgb(246, 235, 224);
+    height: 90%;
+    width: 99%;
+   
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   padding-top: 2rem;
+    
+}
+p{
+display: inline;
+}
+i{
+    font-size: 2.5rem;
+    color: orangered;
+    margin-right: 0.25rem;
+}
+.storecode{
+    display: inline;
+    margin-right: 7rem;
+  
+    
+}
+.store{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.code{
+    font-size: 1.5rem;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orangered;
+}
+.mid-nav{
+    display: flex;
+    font-size: 1.5rem;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30rem;
+    justify-content: space-evenly;
+    padding-left: 5rem;
+    padding-right: 5rem;
+
+}
+.home{
+    color: orangered;
+}
+.buttons{
+    display: flex;
+    width: 13rem;
+    justify-content: space-evenly;
+   
+}
+.login{
+    height: 2rem;
+    font-size: 1.2rem;
+    background-color: white;
+    color: orangered;
+    border: white;
+    border-radius: 0.5rem;
+}
+.register{
+    height: 2rem;
+    font-size: 1.2rem;
+    background-color: orangered;
+    color: white;
+    border: white;
+    border-radius: 0.5rem;
+}
+.main-1{
+    background-image:url('Picture17.png') ;
+    backdrop-filter: 20px;
+    height: 45rem;
+    width: 100%;
+    background-size: cover;
+    
+    margin: 3rem 0 0 ;
+    display: flex;
+}
+.main-subdiv{
+    width: 45%;
+    justify-content: space-around;
+}
+.main-1-1{
+
+height: 50rem;
+width: 55%;
+padding: 3rem 0 0 2.5rem;
+
+}
+.main-1-2{
+display: flex;
+margin-top:5rem;
+justify-content: space-around;
+
+}
+.img-1{
+height: 10rem;
+
+display: flex;
+background-size: cover;
+
+}
+.img-2{
+height: 10rem;
+
+display: flex;
+
+background-size: cover;
+}
+
+.img-3{
+height: 12rem;
+
+display: flex;
+
+background-size: auto;
+}
+.img-4{
+height: 10rem;
+
+display: flex;
+
+background-size: cover;
+}
+.img-5{
+ height: 12rem;
+    
+ display: flex;
+    
+ background-size: cover; 
+}
+.img-6{
+ height: 10rem;
+        
+display: flex;
+        
+background-size: cover;
+}
+
+.main-1-3{
+    display: flex;
+    justify-content: space-around;
+    margin-top:3rem;
+}
+.main-1-4{
+    display: flex;
+    justify-content: space-around;
+    margin-top:3rem;
+}
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-weight: 700rem;
+    color: orangered;
+}
+h1{
+    font-size:4.5rem;
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.elevate{
+    color: orangered;
+}
+h4{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 600;
+    font-weight: 600;
+}
+.section2{
+    margin-top: 7rem;
+}
+.Top{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-weight: 700rem;
+    color: orangered;
+    justify-content: center;
+    display: flex;
+}
+.Explore{
+    justify-content: center;
+    display: flex;
+    font-size:4rem;
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.influ{
+    justify-content: center;
+    display: flex;
+    font-size:4rem;
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orangered;
+
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+
+}
+.section2-1{
+display: flex;
+margin-top: 5rem;
+}
+.sec-2-img-1{
+    height: 17rem;
+    width: 17%;
+    background-color:white;
+    
+    margin-left: 10%;
+}
+.sec-2-img-2{
+    height: 17rem;
+    width: 17%;
+    background-color:white;
+    margin-top: 6rem;
+    margin-left: 3%;
+}
+.sec-2-img-3{
+    height:17rem;
+    width: 17%;
+    background-color: white;
+   
+    margin-left: 3%;
+}
+.sec-2-img-4{
+    height: 17rem;
+    width: 17%;
+    background-color: white;
+    margin-top: 6rem;
+    margin-left: 3%;
+}
+.img2-1{
+    height: 12rem;
+    justify-content: space-evenly;
+   background-size: cover;
+   display: flex;
+   margin-top: 0.7rem;
+}
+.name{
+    margin-left: 1rem;
+    margin-top: 0.5rem
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    margin: 0 0 0 0;
+}
+.star{
+    margin:0.5rem 0 0 1rem;
+}
+.section3{
+    height: 50rem;
+    width: 100%;
+    display: flex;
+}
+.section3-1{
+    width: 50%;
+    height: 45rem;
+    margin:5rem 0 0 5rem;
+}
+.section3-2{
+    width: 50%;
+    height: 45rem;
+    display: flex;
+    background-size: cover;
+   
+}
+.hw{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: orangered;
+}
+.guide{
+    display: flex;
+    margin-top: 1rem;
+}
+.gy{
+    font-size: 4rem;
+    font-weight: bold;
+}
+.F{
+    font-size: 4rem;
+    font-weight: bold;
+    color: orangered;
+    margin-left: 0.7rem;
+}
+.earn-reward{
+    display: flex;
+    height: 8rem;
+    width: 100%;
+    margin-top: 5rem;
+}
+.reward-icon{
+    height: 5rem;
+    width: 5rem;
+    background-color: white;
+    justify-content:space-evenly;
+    display: flex;
+}
+
+.line1{
+    margin: 0.25rem 0 0.5rem 1rem;
+    
+    font-size: x-large;
+    font-weight: 600;
+    font-family: system-ui;
+}
+.line2{
+    margin: 0rem 0 0.5rem 1rem;
+    color: grey;
+    font-size: larger;
+    font-weight: 600;
+    font-family: system-ui;
+}
+.earn-reward1{
+    display: flex;
+    height: 8rem;
+    width: 100%;
+    margin-top: 1rem;
+}
+.earn-reward2{
+    display: flex;
+    height: 8rem;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+
+.service{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-weight: 700rem;
+    color: orangered;
+    justify-content: center;
+    display: flex;
+   padding-top: 3rem;
+}
+.img3-1{
+    height: 12rem;
+    justify-content: space-evenly;
+   background-size: cover;
+   display: flex;
+   margin-top: 1rem;
+}
+.sec-3-img-1{
+    height: 17rem;
+    width: 17%;
+    background-color:white;
+    
+    margin-left: 10%;
+}
+.sec-3-img-2{
+    height: 17rem;
+    width: 17%;
+    background-color:white;
+    margin-top: 6rem;
+    margin-left: 3%;
+}
+.sec-3-img-3{
+    height:17rem;
+    width: 17%;
+    background-color: white;
+   
+    margin-left: 3%;
+}
+.sec-3-img-4{
+    
+    width: 17%;
+    background-color: white;
+    margin-top: 6rem;
+    margin-left: 3%;
+}
+.section5{
+    height: 30rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.section5-1{
+    height: 20rem;
+    width: 80%;
+    background-color: rgb(67, 171, 184);
+    margin: 5rem 5rem 5rem 5rem;
+    border-radius: 5rem;
+}
+.regu{
+    justify-content: center;
+    display: flex;
+    font-size:4rem;
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.sub{
+    justify-content: center;
+    display: flex;
+    font-size:3rem;
+    font-weight: 1000;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orangered;
+}
+.email{
+    display: flex;
+    height: 5rem;
+    width: 80%;
+    background-color: white;
+    justify-content: center;
+    margin-left: 5rem;
+    
+}
+.register-icon{
+    height: 3rem;
+    width: 6rem;
+    background-color: rgb(67, 171, 184);
+    border-radius: 10rem 10rem 10rem 10rem ;
+    display: flex;
+    justify-content: center;
+    margin:1rem 0 0.5rem 0.5rem ;
+    
+    
+}
+.search-input{
+    width: 80%;
+    border: none;
+    font-size: 1.25rem;
+}
+.reg{
+    color: white;
+    font-size: 1.25rem;
+    margin-top: 0.7rem;
+    justify-content: center;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer-element{
+    height: 25rem;
+    width: 100%;
+    display: flex;
+}
+.column1{
+    height: 100%;
+    width: 35%;
+    display: flex;
+}
+
+ul{
+    list-style: none;
+}
+.about{
+    font-size: medium;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-bottom: 0.5rem;
+
+}
+.social-name{
+    height: 2rem;
+    width: 10rem;
+}
+.social-links1{
+    height: 2rem;
+    width: 10rem;
+}
+.social-links2{
+    height: 2rem;
+    width: 10rem;
+}
+.social-links3{
+    height: 3rem;
+    width: 15rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.icon1{
+    height: 3rem;
+    width: 3rem;
+    display: flex;
+}
+.icon2{
+    height: 2rem;
+    width: 2rem;
+    display: flex;
+}
+.icon3{
+    height: 2rem;
+    width: 2rem;
+}
+.list{
+    font-size: medium;
+    color: grey;
+    margin-bottom: 0.5rem;
+
+}
